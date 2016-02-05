@@ -8,5 +8,5 @@ C64 Demo Example
 $ git clone git@github.com:elpassion/elrainbow64.git
 $ brew install acme
 $ make
-$ open rainbow.prg
+$ open rainbow.prg # use VICE
 ```
