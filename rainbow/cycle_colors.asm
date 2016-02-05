@@ -9,6 +9,6 @@ cycle:
   inx
   cpx #39
   bne cycle
-  sty $D990+$24
+  sty $D990+39
 
   rts
