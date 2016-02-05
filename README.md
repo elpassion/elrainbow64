@@ -11,6 +11,6 @@ $ make
 $ open rainbow.prg # use VICE
 ```
 
-## Example
+## Demo
 
 [https://www.youtube.com/watch?v=RgXgmhqHn_I](https://www.youtube.com/watch?v=RgXgmhqHn_I)
