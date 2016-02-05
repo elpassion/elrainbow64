@@ -1,4 +1,4 @@
-text !scr "     hackathon 2016  @  el passion      "
+text !scr "  hackathon 2016  @  el passion  S c64  "
 
 init_text:
   ldx #$00          ; init X-Register with $00

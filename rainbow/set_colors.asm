@@ -11,7 +11,7 @@ set_colors:
 
 loop_colors:
   lda colors,x
-  sta $D993,x
+  sta $D990,x
 
   inx
   cpx #40          ; finished when all 40 cols of a line are processed

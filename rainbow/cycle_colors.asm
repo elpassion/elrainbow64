@@ -1,14 +1,14 @@
 cycle_colors:
   ldx #$00
-  ldy $D993
+  ldy $D990
 
 cycle:
-  lda $D993+1,x
-  sta $D993,x
+  lda $D990+1,x
+  sta $D990,x
 
   inx
   cpx #39
   bne cycle
-  sty $D993+$24
+  sty $D990+$24
 
   rts
