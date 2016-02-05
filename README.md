@@ -10,3 +10,7 @@ $ brew install acme
 $ make
 $ open rainbow.prg # use VICE
 ```
+
+## Example
+
+[https://www.youtube.com/watch?v=RgXgmhqHn_I](https://www.youtube.com/watch?v=RgXgmhqHn_I)
